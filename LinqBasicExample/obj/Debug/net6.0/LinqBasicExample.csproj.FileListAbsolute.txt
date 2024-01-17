@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.exe
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.deps.json
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.runtimeconfig.json
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.dll
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.pdb
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.dll
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\refint\LinqBasicExample.dll
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.pdb
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\ref\LinqBasicExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\bin\Debug\net6.0\LinqBasicExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\refint\LinqBasicExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\LinqBasicExample.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\LinqBasicExample\LinqBasicExample\obj\Debug\net6.0\ref\LinqBasicExample.dll
